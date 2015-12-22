@@ -1,0 +1,27 @@
+{
+  "name": "Confusion",
+  "homepage": "https://github.com/boubamaraka/WEbdev",
+  "description": "Website Restaurant",
+  "main": "index.html",
+  "moduleType": [],
+  "keywords": [
+    "Confusion",
+    "Fusion",
+    "Restaurant"
+  ],
+  "authors": [
+    "Fofana"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.5",
+    "font-awesome": "~4.4.0"
+  }
+}
